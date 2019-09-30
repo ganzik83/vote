@@ -4,7 +4,7 @@
 
 ```bash
 # 프로젝트 디렉토리 생성
-npx create-react-app vote
+npx create-react-app client
 
 # git 설정
 git init
@@ -18,8 +18,4 @@ git commit -m "first commit"
 git remote add origin https://github.com/ganzik/vote.git
 
 git push -f -u origin master
-```
-
-```bash
-yarn add axios babel-cli express mongoose nodemon react-bootstrap react-modal react-router-dom --SAVE
 ```
